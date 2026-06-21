@@ -17,7 +17,7 @@ def first_dag():
 
     @task.python
     def first_task():
-        print("This is the first task")
+        print("This is the first task and it will run first")
 
     @task.python
     def second_task():

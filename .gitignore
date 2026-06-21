@@ -5,3 +5,4 @@ logs/
 plugins/
 *.log
 config/airflow.cfg
+input_data/
